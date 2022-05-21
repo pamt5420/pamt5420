@@ -1,7 +1,4 @@
 # <p align="center"> --- Hi.I'm Phạm Ân Mai Thảo --- </p>
-</br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-</br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - 📚 I'm currently final-year student at Duy Tân University 😅
