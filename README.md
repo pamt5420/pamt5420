@@ -1,9 +1,9 @@
 # <p align="center"> --- Hi.I'm Phạm Ân Mai Thảo --- </p>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- 📚 I'm currently final-year student at Duy Tân University 😅
-- 💪🏼Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📚 I'm currently lead of Back-End team at Devtify Technologies 😅
 - 🏆 Runner-up: ICPC VietNam 2020
+
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
