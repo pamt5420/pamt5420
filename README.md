@@ -1,7 +1,7 @@
 # <p align="center"> --- Hi.I'm Phạm Ân Mai Thảo --- </p>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- 📚 I'm currently lead of Back-End team at Devtify Technologies 😅
+- 📚 I'm currently lead of Back-End team at Devtify Technologies
 - 🏆 Runner-up: ICPC VietNam 2020
 
 
