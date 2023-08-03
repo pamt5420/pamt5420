@@ -3,6 +3,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - 📚 I'm currently lead of Back-End team at Devtify Technologies
 - 🏆 Runner-up: ICPC VietNam 2020
+- 🏆 Runner-up: Procon VietNam 2020
 
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
